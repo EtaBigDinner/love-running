@@ -1,6 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Montserrat&family=Oswald:wght@300&family=Source+Sans+Pro&display=swap');
+* {
+    margin:0;
+    padding:0;
+    border:none;
+}
 body {
-    font-family: arial;
+    font-family: Lato, sans-serif;
+    font-weight: 300;
 }
 header {
-    background-color: rgb(221, 203, 180);
+    background-color: rgb(235, 228, 219);
+    font-family:Oswald, sans-serif;
 }
