@@ -7,8 +7,12 @@
 body {
     font-family: Lato, sans-serif;
     font-weight: 300;
+    color: #3a3a3a;
 }
-header {
-    background-color: rgb(235, 228, 219);
+/* headings and logo*/
+h1,h2 {
     font-family:Oswald, sans-serif;
+    text-transform:capitalize;
+    letter-spacing: 4px;
+    color: #252525;
 }
